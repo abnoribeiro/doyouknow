@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "doyouknow",
+    "slug": "doyouknow",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "doyouknow"
+}

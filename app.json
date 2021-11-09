@@ -1,11 +1,17 @@
 {
   "expo": {
-    "name": "doyouknow",
-    "slug": "doyouknow",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "doyouknow"
+   "name": "doyouknow?",
+   "icon": "./src/assets/app-icon.png",
+   "version": "1.0.0",
+   "slug": "doyouknow",
+   "owner":"abnoribeiro",
+   "ios": {
+     "bundleIdentifier": "com.brainee.doyouknow",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.brainee.doyouknow",
+     "versionCode": 1
+   }
+  }
 }
